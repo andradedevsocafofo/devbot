@@ -1,0 +1,14 @@
+{
+    "token": "token do bot",
+    "access_token": "access token",
+    "status": "Vendas Automáticas",
+    "prefix": ".",
+    "owner": "seu id",
+    "logs": "logs público",
+    "logs_staff": "logs privado",
+    "category": "categoria carrinho",
+    "title": "Payments",
+    "color": "000000",
+    "thumbnail": "banner",
+    "role": "id cargo cliente"
+}
